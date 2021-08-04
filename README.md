@@ -16,7 +16,7 @@
 
 **Download with curl one liner**
 
-      curl https://raw.githubusercontent.com/SxNade/Mango/main/mango.ps1 -o mango.ps1
+      curl -s https://raw.githubusercontent.com/SxNade/Mango/main/mango.ps1 -o mango.ps1
 
 **Execute from command-prompt**
 
