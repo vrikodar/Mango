@@ -24,6 +24,8 @@
 powershell.exe -ep bypass -c  "./mango.ps1"
 ```
 
+![Mango:)](https://github.com/SxNade/Mango/blob/main/Mango.png)
+
 # About
 
 This script is kept very minimalistic for now, more code would added in upcoming updates!
