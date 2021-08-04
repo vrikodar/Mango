@@ -4,6 +4,19 @@
 
 **Mango is a user interactive Powershell program to search for possible privilege escalation vectors on windows** 
 
+
+# Installing and Running
+
+**Download with curl one liner**
+
+      curl https://raw.githubusercontent.com/SxNade/Mango/main/mango.ps1 -o mango.ps1
+
+**Execute from command-prompt**
+
+```
+powershell.exe -c  "./mango.ps1"
+```
+
 # About
 
 This script is kept very minimalistic for now, more code would added in upcoming updates!
