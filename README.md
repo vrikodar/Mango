@@ -7,6 +7,13 @@
 
 # Installing and Running
 
+*For repo*
+
+      $ git clone https://github.com/SxNade/Mango
+      $ cd Mango
+      
+      $ ls -la
+
 **Download with curl one liner**
 
       curl https://raw.githubusercontent.com/SxNade/Mango/main/mango.ps1 -o mango.ps1
