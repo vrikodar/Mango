@@ -21,7 +21,7 @@
 **Execute from command-prompt**
 
 ```
-powershell.exe -c  "./mango.ps1"
+powershell.exe -ep bypass -c  "./mango.ps1"
 ```
 
 # About
