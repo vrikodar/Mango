@@ -181,7 +181,7 @@ Function menu
     param (
     [string]$Title = "Mango-v(1.0) choose the option!"
     )
-    Write-Host "=================================== $Title ==================================="
+    Write-Host "`n=================================== $Title ==================================="
     Write-Host "1: Basic info about system and users"
     Write-Host "2: C:\ Enum "
     Write-Host "3: Network Information"
